@@ -1,5 +1,4 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
 import components from "../assets/portfolio/components.png";
 import solutionec from "../assets/portfolio/solutionec.png";
 import ecommerce from "../assets/portfolio/ecommerce.png";
