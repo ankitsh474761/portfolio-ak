@@ -14,24 +14,17 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          As a passionate and detail-oriented MERN Stack Developer, I specialize
+          in creating responsive, visually appealing, and user-centric web
+          applications. With a strong proficiency in HTML, CSS, JavaScript,
+          TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, and Git,
+          I focus on delivering seamless user experiences and optimized
+          performance. I enjoy tackling challenges, writing clean code, and
+          continuously learning new technologies to stay ahead in this dynamic
+          field.
         </p>
 
         <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
       </div>
     </div>
   );
