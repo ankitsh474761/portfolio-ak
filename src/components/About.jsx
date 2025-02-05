@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-10">
           As a passionate and detail-oriented MERN Stack Developer, I specialize
           in creating responsive, visually appealing, and user-centric web
           applications. With a strong proficiency in HTML, CSS, JavaScript,

@@ -7,12 +7,12 @@ const Home = () => {
   return (
     <div
       name="home"
-      className=" w-full bg-gradient-to-b from-black via-black to-gray-800"
+      className="w-full bg-gradient-to-b md:pt-[58px] from-black via-black to-gray-800"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
-        <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Frontend Developer
+      <div className="mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
+        <div className="flex md:w-1/2 items-center flex-col lg:pt-0 pt-[100px] justify-center h-full">
+          <h2 className="text-4xl flex text-center sm:text-7xl font-bold text-white">
+            I'm a MERN Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
             With 1 year of experience in building and designing software, I
@@ -40,7 +40,7 @@ const Home = () => {
           </div>
         </div>
 
-        <div>
+        <div className="md:w-1/2">
           <img
             src={HeroImage}
             alt="my profile"

@@ -1,13 +1,15 @@
 import React from "react";
-
 import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
-import zustand from "../assets/Zustand.png";
+import typescript from "../assets/typescript.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import node from "../assets/node.png";
+import express from "../assets/express.png";
+import mongodb from "../assets/mongodb.png";
 import reduxToolkit from "../assets/redux.png";
 
 
@@ -57,12 +59,30 @@ const Experience = () => {
     },
     {
       id: 8,
-      src: zustand,
-      title: "Zustand",
-      style: "shadow-pink-400",
+      src: typescript,
+      title: "Typescript",
+      style: "shadow-blue-400",
     },
     {
       id: 9,
+      src: node,
+      title: "Node.js",
+      style: "shadow-green-400",
+    },
+    {
+      id: 10,
+      src: express,
+      title: "Express.js",
+      style: "shadow-green-600",
+    },
+    {
+      id: 11,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-800",
+    },
+    {
+      id: 12,
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
